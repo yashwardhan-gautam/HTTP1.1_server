@@ -1,0 +1,142 @@
+Waiting for connections.....
+Connected
+Pushing 0
+Waiting for connections.....
+Popping out
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _xsrf=2|664ea201|04b5dc67958b2003a38645cb6050f89b|1619807997; username-localhost-8888="2|1:0|10:1619853066|23:username-localhost-8888|44:Mzk2NTAyMTJjNWI3NGYwNWE4MTMzYWU5ODAwZGFjZTg=|bcebaf0c45e8729f1e30cd09d734bec5c33f25e1697aa5c39c52b5986399a5be"
+
+
+Message Sent....
+
+Connected
+Pushing 1
+Waiting for connections.....
+Popping out
+GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _xsrf=2|664ea201|04b5dc67958b2003a38645cb6050f89b|1619807997; username-localhost-8888="2|1:0|10:1619853066|23:username-localhost-8888|44:Mzk2NTAyMTJjNWI3NGYwNWE4MTMzYWU5ODAwZGFjZTg=|bcebaf0c45e8729f1e30cd09d734bec5c33f25e1697aa5c39c52b5986399a5be"
+
+
+Message Sent....
+
+Connected
+Pushing 2
+Waiting for connections.....
+Popping out
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _xsrf=2|664ea201|04b5dc67958b2003a38645cb6050f89b|1619807997; username-localhost-8888="2|1:0|10:1619853066|23:username-localhost-8888|44:Mzk2NTAyMTJjNWI3NGYwNWE4MTMzYWU5ODAwZGFjZTg=|bcebaf0c45e8729f1e30cd09d734bec5c33f25e1697aa5c39c52b5986399a5be"
+
+
+Message Sent....
+
+Connected
+Pushing 3
+Waiting for connections.....
+Popping out
+GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _xsrf=2|664ea201|04b5dc67958b2003a38645cb6050f89b|1619807997; username-localhost-8888="2|1:0|10:1619853066|23:username-localhost-8888|44:Mzk2NTAyMTJjNWI3NGYwNWE4MTMzYWU5ODAwZGFjZTg=|bcebaf0c45e8729f1e30cd09d734bec5c33f25e1697aa5c39c52b5986399a5be"
+
+
+Message Sent....
+
+Connected
+Pushing 4
+Waiting for connections.....
+Popping out
+°ŽUÑ¼U
+Message Sent....
+
+Connected
+Pushing 5
+Waiting for connections.....
+Popping out
+°nXà
+Message Sent....
+
+Connected
+Pushing 6
+Waiting for connections.....
+Popping out
+°~Ö
+Message Sent....
+
+Connected
+Pushing 7
+Waiting for connections.....
+Popping out
+°^¾=çU
+Message Sent....
+
+Connected
+Pushing 8
+Waiting for connections.....
+Popping out
+°î`Õ.V
+Message Sent....
+
+Connected
+Pushing 9
+Waiting for connections.....
+Popping out
+°~e“U
+Message Sent....
+
+Connected
+Pushing 10
+Waiting for connections.....
+Popping out
+°žƒóU
+Message Sent....
+
+Connected
+Pushing 11
+Wai
